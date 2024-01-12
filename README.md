@@ -7,7 +7,7 @@ If you haven't played Minesweeper at all and don't know the rules, we recommend 
    	- [https://en.wikipedia.org/wiki/Minesweeper_(video_game)]
     - [https://www.instructables.com/How-to-play-minesweeper/]
 
-**Video Demo:** [https://www.youtube.com/watch?v=e_LBSV6SNkc]
+**Demo Video:** [https://www.youtube.com/watch?v=e_LBSV6SNkc]
   
 **How to run the game and play the game:**
 
