@@ -1,3 +1,28 @@
-# Project 6 Minesweeper by Luke Genova, Taoseef Aziz, Matteus McKinley Wilson, Amimul Ehsan Zoha:
+# Minesweeper
 
-Make sure to look through every header comment of each class in the source code to get a good idea as to how each works. Especially look at the header comments for the Minesweeper class since it has most of the details as to how to play the game, how to start playing the game, and what to look out for when playing it.
+This program is a Minesweeper clone written by Luke Genova, Taoseef Aziz, Matteus McKinley Wilson, and Amimul Ehsan Zoha using Java and JavaFX
+
+**Quick Note:**
+If you haven't played Minesweeper at all and don't know the rules, we recommend copying and pasting these URLs on your web browser. These URLS direct you to websites that give instructions on how to play the game: 
+   	- [https://en.wikipedia.org/wiki/Minesweeper_(video_game)]
+    - [https://www.instructables.com/How-to-play-minesweeper/]
+
+**Video Demo:** [https://www.youtube.com/watch?v=e_LBSV6SNkc]
+  
+**How to run the game and play the game:**
+
+1. Once you run the program, a screen will pop up and you will be taken to a starting menu.
+
+2. The starting menu has you select what difficulty you want to play the game in.
+  a. Beginner: GRID: 10x10 && Mines: 10 
+  b. Intermediate: GRID: 20x20 && Mines: 40 
+  c. Expert: GRID: 30x30 && Mines: 100 
+  d. Custom: Any grid size and mine count you want as long as it's within the restrictions.
+
+3. Once you select a difficulty, you can start playing the game.
+   
+4. On the screen, there is a menu bar that allows you to either save or load your progress and change the difficulty of the game mid-game. 
+  a. **There are many restrictions on the save/load feature. For example, you can't save or load the game unless you make your first move.** 
+
+5. Once the game ends by winning or losing, you can rerun the program or select a difficulty in the menubar if you want to play again.
+
