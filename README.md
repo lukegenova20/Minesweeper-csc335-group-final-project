@@ -14,10 +14,10 @@ If you haven't played Minesweeper at all and don't know the rules, we recommend 
 1. Once you run the program, a screen will pop up and you will be taken to a starting menu.
 
 2. The starting menu has you select what difficulty you want to play the game in.
-   a. Beginner: GRID: 10x10 && Mines: 10
-   b. Intermediate: GRID: 20x20 && Mines: 40
-   c. Expert: GRID: 30x30 && Mines: 100
-   d. Custom: Any grid size and mine count you want as long as it's within the restrictions.
+   - Beginner: GRID: 10x10 && Mines: 10
+   - Intermediate: GRID: 20x20 && Mines: 40
+   - Expert: GRID: 30x30 && Mines: 100
+   - Custom: Any grid size and mine count you want as long as it's within the restrictions.
 
 4. Once you select a difficulty, you can start playing the game.
    
