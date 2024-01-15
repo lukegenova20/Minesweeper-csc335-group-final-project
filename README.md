@@ -14,15 +14,15 @@ If you haven't played Minesweeper at all and don't know the rules, we recommend 
 1. Once you run the program, a screen will pop up and you will be taken to a starting menu.
 
 2. The starting menu has you select what difficulty you want to play the game in.
-  a. Beginner: GRID: 10x10 && Mines: 10 
-  b. Intermediate: GRID: 20x20 && Mines: 40 
-  c. Expert: GRID: 30x30 && Mines: 100 
-  d. Custom: Any grid size and mine count you want as long as it's within the restrictions.
+   a. Beginner: GRID: 10x10 && Mines: 10
+   b. Intermediate: GRID: 20x20 && Mines: 40
+   c. Expert: GRID: 30x30 && Mines: 100
+   d. Custom: Any grid size and mine count you want as long as it's within the restrictions.
 
-3. Once you select a difficulty, you can start playing the game.
+4. Once you select a difficulty, you can start playing the game.
    
-4. On the screen, there is a menu bar that allows you to either save or load your progress and change the difficulty of the game mid-game. 
+5. On the screen, there is a menu bar that allows you to either save or load your progress and change the difficulty of the game mid-game. 
   a. **There are many restrictions on the save/load feature. For example, you can't save or load the game unless you make your first move.** 
 
-5. Once the game ends by winning or losing, you can rerun the program or select a difficulty in the menubar if you want to play again.
+6. Once the game ends by winning or losing, you can rerun the program or select a difficulty in the menubar if you want to play again.
 
