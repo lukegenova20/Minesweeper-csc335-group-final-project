@@ -3,7 +3,7 @@
 This program is a Minesweeper clone written by Luke Genova, Taoseef Aziz, Matteus McKinley Wilson, and Amimul Ehsan Zoha using Java and JavaFX
 
 **Quick Note:**
-If you haven't played Minesweeper at all and don't know the rules, we recommend clicking on one of the links bellow. These URLS direct you to websites that give instructions on how to play the game: 
+If you haven't played Minesweeper at all and don't know the rules, we recommend clicking on one of the links below. These URLS direct you to websites that give instructions on how to play the game: 
    	- [https://en.wikipedia.org/wiki/Minesweeper_(video_game)]
     - [https://www.instructables.com/How-to-play-minesweeper/]
 
