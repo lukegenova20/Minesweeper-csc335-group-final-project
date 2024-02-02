@@ -4,7 +4,7 @@ This program is a Minesweeper clone written by Luke Genova, Taoseef Aziz, Matteu
 
 **Quick Note:**
 If you haven't played Minesweeper at all and don't know the rules, we recommend clicking on one of the links below. These URLS direct you to websites that give instructions on how to play the game: 
-   	- [https://en.wikipedia.org/wiki/Minesweeper_(video_game)]
+    - [https://en.wikipedia.org/wiki/Minesweeper_(video_game)]
     - [https://www.instructables.com/How-to-play-minesweeper/]
 
 **Demo Video:** [https://www.youtube.com/watch?v=e_LBSV6SNkc]
